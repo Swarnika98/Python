@@ -1,5 +1,5 @@
 # Python
-This Python Repository Contains Coding Assignments Related to Python
+This Python Repository Contains Coding Assignments Related to Python.
 This a Courier Management System project.
 For a seamless eCommerce shopping experience, it is essential to deliver the product promptly to the customer. And that’s where a 
 professional courier service plays a vital role. 'FastTrack' courier company stores the relevant data of its clients and parcels in the form of dictionary. 
